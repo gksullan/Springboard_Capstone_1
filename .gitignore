@@ -2,4 +2,4 @@
 .Rhistory
 .ipynb_checkpoints
 .idea
-.cpython-37.pyc
+*.pyc
