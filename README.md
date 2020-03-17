@@ -5,7 +5,7 @@ Once the decision to perform genetic testing is made, patients submit a sample o
 
 - Benign
 - Likely Benign
-- VUS
+- VUS (Variant of Uncertain Significance)
 - Likely Pathogenic
 - Pathogenic
 
