@@ -21,3 +21,32 @@ Additionally, this model can reveal trends in mutants that are likely to be conf
 I will be using a Kaggle dataset (https://www.kaggle.com/kevinarvai/clinvar-conflicting), originally taken from ClinVar (https://www.ncbi.nlm.nih.gov/clinvar/). ClinVar is an online repository of genetic mutations and their features, updated in real time by submitters who submit their data to the database. Submitters to ClinVar include academic institutions, genetic testing laboratories, and hospitals. 
 The Kaggle dataset I am using includes data up until April 7th, 2018. Each of the 65,188 data entries has 46 features. All of the data points are genetic variants that have two or more classifications on the five-step scale outlined above. The ‘CLASS’ column contains a binary value for each data entry, either 0 = consistent classifications or 1 = conflicting classifications.
 
+# Data Cleaning:
+Jupyter Notebook: [Data cleaning notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/data_cleaning_notebook.ipynb)
+
+# NLP of Alleles:
+Jupyter Notebook: [NLP notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/geneseq_nlp_notebook.ipynb)
+
+# Uniprot Data Wrangling:
+Jupyter Notebook: [Uniprot data wrangling notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/uniprot_data_wrangling_notebook.ipynb)
+
+# Exploratory Data Analysis:
+Jupyter Notebook: [Exploratory data analysis notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/exploratory_data_analysis.ipynb)
+
+# Statistical Data Analysis:
+Jupyter notebook: [Statistical data analysis notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/statistical_analysis_notebook.ipynb)
+
+# Machine Learning Models:
+Jupyter Notebooks: [Logistic Regression Notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/logistic_regression_model.ipynb)
+[Decision Tree Notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/decision_tree_model.ipynb)
+[Random Forest Notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/random_forest_model.ipynb)
+[XGBoost Notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/xgboost_model.ipynb)
+
+# Final Model Analysis:
+Jupyter Notebook: [Final model comparison notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/final_model_results.ipynb)
+
+# Final Best Models Hyperparameter Table:
+Pickle File: [Final Hyperparameters](https://github.com/gksullan/conflicting_geneticvariants/blob/master/hyperparameter_tables/final_best_models.pkl)
+
+
+
