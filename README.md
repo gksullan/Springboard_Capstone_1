@@ -37,10 +37,11 @@ Jupyter Notebook: [Exploratory data analysis notebook](https://github.com/gksull
 Jupyter notebook: [Statistical data analysis notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/statistical_analysis_notebook.ipynb)
 
 # Machine Learning Models:
-Jupyter Notebooks: [Logistic Regression Notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/logistic_regression_model.ipynb)
-[Decision Tree Notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/decision_tree_model.ipynb)
-[Random Forest Notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/random_forest_model.ipynb)
-[XGBoost Notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/xgboost_model.ipynb)
+Jupyter Notebooks: 
+- [Logistic Regression Notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/logistic_regression_model.ipynb)
+- [Decision Tree Notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/decision_tree_model.ipynb)
+- [Random Forest Notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/random_forest_model.ipynb)
+- [XGBoost Notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/xgboost_model.ipynb)
 
 # Final Model Analysis:
 Jupyter Notebook: [Final model comparison notebook](https://github.com/gksullan/conflicting_geneticvariants/blob/master/final_model_results.ipynb)
